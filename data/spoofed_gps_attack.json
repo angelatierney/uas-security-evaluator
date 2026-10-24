@@ -1,0 +1,102 @@
+[
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:00.000Z",
+    "msg_type": "HEARTBEAT",
+    "lat": 37.774900,
+    "lon": -122.419400,
+    "alt": 50.0,
+    "ground_speed": 8.5,
+    "heartbeat": true
+  },
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:01.000Z",
+    "msg_type": "GLOBAL_POSITION_INT",
+    "lat": 37.774920,
+    "lon": -122.419380,
+    "alt": 51.2,
+    "ground_speed": 9.1,
+    "heartbeat": true
+  },
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:02.000Z",
+    "msg_type": "GLOBAL_POSITION_INT",
+    "lat": 37.774940,
+    "lon": -122.419360,
+    "alt": 52.0,
+    "ground_speed": 9.4,
+    "heartbeat": true
+  },
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:02.050Z",
+    "msg_type": "GLOBAL_POSITION_INT",
+    "lat": 37.784900,
+    "lon": -122.409400,
+    "alt": 55.0,
+    "ground_speed": 9.5,
+    "heartbeat": true
+  },
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:03.000Z",
+    "msg_type": "GLOBAL_POSITION_INT",
+    "lat": 37.784920,
+    "lon": -122.409380,
+    "alt": 56.0,
+    "ground_speed": 72.0,
+    "heartbeat": true
+  },
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:04.000Z",
+    "msg_type": "GLOBAL_POSITION_INT",
+    "lat": 37.784940,
+    "lon": -122.409360,
+    "alt": 57.0,
+    "ground_speed": 11.0,
+    "heartbeat": true
+  },
+  {
+    "system_id": 99,
+    "timestamp": "2026-10-24T14:00:04.500Z",
+    "msg_type": "HEARTBEAT",
+    "lat": null,
+    "lon": null,
+    "alt": null,
+    "ground_speed": null,
+    "heartbeat": true
+  },
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:05.000Z",
+    "msg_type": "GLOBAL_POSITION_INT",
+    "lat": 37.784960,
+    "lon": -122.409340,
+    "alt": 58.0,
+    "ground_speed": 10.5,
+    "heartbeat": true
+  },
+  {
+    "system_id": 99,
+    "timestamp": "2026-10-24T14:00:05.500Z",
+    "msg_type": "HEARTBEAT",
+    "lat": null,
+    "lon": null,
+    "alt": null,
+    "ground_speed": null,
+    "heartbeat": true
+  },
+  {
+    "system_id": 1,
+    "timestamp": "2026-10-24T14:00:06.000Z",
+    "msg_type": "GLOBAL_POSITION_INT",
+    "lat": 37.784980,
+    "lon": -122.409320,
+    "alt": 59.0,
+    "ground_speed": 10.2,
+    "heartbeat": true
+  }
+]
